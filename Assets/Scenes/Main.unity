@@ -289,7 +289,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7aa3e1c2e8be35144b46f8b5469d5dfb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gridSize: {x: 5, y: 5, z: 5}
+  gridSize: {x: 10, y: 10, z: 10}
   gridOrigin: {x: 0, y: 0, z: 0}
   gridScale: 1
   platform: {fileID: 7701260559349293410, guid: 5c0d7783f95d3d94cbff75d5e2085f46, type: 3}
